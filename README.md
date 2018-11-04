@@ -1,36 +1,3 @@
 # clojure-noob
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar clojure-noob-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+**clojure-noob** is nothing fancy. It's just a starter Clojure project make to learn how to use Leiningen and what the folder structure looks like. I'm going through [*Clojure for the Brave and True*](https://www.braveclojure.com/foreword/) (again, third time's a charm) and this is the initial project.
